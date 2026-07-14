@@ -89,5 +89,9 @@
       "id": "fist-my-bump",
       "text": "Fist my bump; question."
     }
+    {
+      "id": "verify",
+      "text": "The real question is: does this Git repo actually update the scrolling banner?"
+    }
   ]
 }
