@@ -2,6 +2,14 @@
   "version": 1,
   "heckles": [
     {
+      "id": "egg",
+      "text": "egg"
+    },
+    {
+      "id": "egg-drink",
+      "text": "Scientists discover that eggs should technically be classified as beverages."
+    },
+    {
       "id": "power-washing-simulator",
       "text": "Power washing simulator, really? Next you'll be doing a book sorting simulator, and then paint drying simulator."
     },
